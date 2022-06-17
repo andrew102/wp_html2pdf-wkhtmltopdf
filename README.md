@@ -1,6 +1,8 @@
 # wp_html2pdf-wkhtmltopdf
-very simple html2pdf generator as wp_ajax request with use wkhtmltopdf
+very simple wp plugin html2pdf generator as wp_ajax request with use wkhtmltopdf
 
+After clone repo run Run:
+composer install
 
 Use example:
 
